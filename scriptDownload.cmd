@@ -4,7 +4,7 @@ curl -o THEBEEMOVIESCRIPT.txt https://gist.githubusercontent.com/ElliotGluck/64b
 
 echo "TIME FOR HELL"
 for /L %%i in (1, 1, 10) do (
-    notepadd BEEMOVIESCRIPT.txt
+    notepad BEEMOVIESCRIPT.txt
 )
 echo "Now for Carl to read it!"
 start https://www.youtube.com/watch?v=twC-qa7xdSA
